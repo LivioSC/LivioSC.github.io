@@ -1,2 +1,4 @@
 h1 {color: #426493; background-color: #000000; padding-left: 10px; padding-top: 50px}
-a {color: ##FF0000; font-style: italic;}
+a {color: ##FF0000; font-style: italic;font-family: Impact, Charcoal, sans-serif;}
+h1.red{color: #00ffff}
+h1#green{color: #00FF00}
